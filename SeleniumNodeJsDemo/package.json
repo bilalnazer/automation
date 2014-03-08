@@ -7,7 +7,5 @@
     "name": "bilalnazer",
     "email": ""
   },
-  "dependencies": {
-    "selenium-webdriver": "~2.40.0"
-  }
+  "dependencies": {}
 }
