@@ -1,0 +1,13 @@
+{
+  "name": "SeleniumNodeJsDemo",
+  "version": "0.0.0",
+  "description": "SeleniumNodeJsDemo",
+  "main": "app.js",
+  "author": {
+    "name": "bilalnazer",
+    "email": ""
+  },
+  "dependencies": {
+    "selenium-webdriver": "~2.40.0"
+  }
+}
